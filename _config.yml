@@ -20,7 +20,7 @@ timezone: Asia/Chongqing
 
 title: MyBlog # the main title
 
-tagline: 记录自己 # it will display as the sub-title
+tagline: 明珠玉斗，漫撞令碎 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
