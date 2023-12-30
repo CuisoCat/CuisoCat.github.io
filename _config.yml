@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://github.com/CuisoCat/blog_images/blob/main/blog_sys/blog.jpeg"
+avatar: "https://raw.githubusercontent.com/CuisoCat/blog_images/main/blog_sys/blog.jpeg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
