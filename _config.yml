@@ -19,14 +19,14 @@ title: CuisoCat's blog # the main title
 tagline: 瞎说和瞎做
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  想的和做的
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: CuisoCat # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
